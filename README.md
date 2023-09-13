@@ -6,8 +6,8 @@ Welcome to the Programming Guides Repository! This repository is a collection of
 
 | Guide                                      | Description                                   |
 |--------------------------------------------|-----------------------------------------------|
-| [Python Basics](python-basics.md)          | Introduction to Python and its fundamentals.  |
-| [JavaScript Basics](javascript-basics.md)  | An overview of JavaScript and its basics.     |
+| [Python Basics](python-guide.md)          | Introduction to Python and its fundamentals.  |
+| [JavaScript Basics](javascript-guide.md)  | An overview of JavaScript and its basics.     |
 
 ## How to Use
 
